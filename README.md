@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Safari nexus](https://github.com/RoySamson-stack/nexus)
 <img align='right' alt='coding' width="200" src="https://media.tenor.com/42dqUm0Y_roAAAAM/ada.gif" alt="coding"/>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **RUST**
 
 - 👨‍💻 All of my projects are available at [https://roysam.netlify.app/](https://roysam.netlify.app/)
 
